@@ -1,8 +1,6 @@
 # YOUTUBE_CONTENT_ANALYSIS
 scraping youtube content using Youtube API's Then analyzing and visualizing the data
 
-This project analyzes the performance of various YouTube channels based on key metrics such as subscriber count, total views, and total videos. Using Python for data analysis and visualization, this project provides insights into how channel characteristics relate to their audience engagement and growth.
-
 TABLE OF CONTENTS
 
 1. Project Overview
@@ -15,7 +13,8 @@ TABLE OF CONTENTS
 
 PROJECT OVERVIEW
 
-This project aims to analyze YouTube channel data to understand the relationship between a channel's creation date, subscriber count, total videos, and total views. By examining these metrics, we can gain insights into the factors contributing to channel growth and engagement.
+This project aims to analyze YouTube channel data to understand the relationship between a channel's creation date, subscriber count, total videos, and total views. By examining these metrics, we can gain insights into the factors contributing to channel growth and engagement. 
+Generate your own Youtube API key. 
 
 DATASET
 
@@ -67,6 +66,7 @@ LICENSE
 
 This project is licensed under the MIT License.
 
+You can contact me via [Linkedln[(linkedin.com/in/mercycheptoo5) for project collaborations.
 
 
 
