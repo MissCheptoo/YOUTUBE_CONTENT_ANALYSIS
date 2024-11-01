@@ -66,7 +66,7 @@ LICENSE
 
 This project is licensed under the MIT License.
 
-You can contact me via [Linkedln](linkedin.com/in/mercycheptoo5) for project collaborations.
+You can contact me via [LinkedIn](https://www.linkedin.com/in/mercycheptoo5/) for project collaborations.
 
 
 
