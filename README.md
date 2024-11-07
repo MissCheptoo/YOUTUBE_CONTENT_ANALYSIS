@@ -1,16 +1,6 @@
 # YOUTUBE_CONTENT_ANALYSIS
 scraping youtube content using Youtube API's Then analyzing and visualizing the data
 
-TABLE OF CONTENTS
-
-1. Project Overview
-2. Dataset
-3. Conclusion
-4. Setup and Installation
-5. Usage
-7. Contributing
-8. License
-
 PROJECT OVERVIEW
 
 This project aims to analyze YouTube channel data to understand the relationship between a channel's creation date, subscriber count, total videos, and total views. By examining these metrics, we can gain insights into the factors contributing to channel growth and engagement. 
@@ -37,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
  
-git clone https://github.com/yourusername/YouTube-Channel-Analysis.git
+git clone https://github.com/MissCheptoo/YouTube-Channel-Analysis.git
 cd YouTube-Channel-Analysis
 
 2. Install the required packages:
